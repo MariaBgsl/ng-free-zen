@@ -24,8 +24,8 @@ p,
 section, footer {
     all: initial;
 }
+/* Сброс стилей для элемента input */
 input {
-    /* Сброс стилей для элемента input */
     margin: 0;
     border: 0;
     padding: 0;
