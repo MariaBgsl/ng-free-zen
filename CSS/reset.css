@@ -42,5 +42,5 @@ select {
 input {
     appearance: none;
     background: none;
-    border: 0;
+    border: none;
 }
